@@ -76,3 +76,4 @@ README.md
 - Interact with the filters on the left sidebar to explore eligible students.
 - Scroll to the bottom for insights and visual analytics.
 
+![Dashboard Screenshot](dashboard_screenshot.png)
